@@ -28,7 +28,7 @@ docker pull aljoby/selenium_docker_new:dashClientImage
 
 aljoby/selenium_docker_new.   dashClientImage.  9f16ef5e64e6.  2 months ago.  1.25GB
 
-5- Run an instance of docker image (aka, container)
+4- Run an instance of docker image (aka, container)
 
 sudo docker run --privileged -p 4000:4000 -v /home/walid/test/containers/container-data1:/usr/src/app -t aljoby/selenium_docker_new
 
