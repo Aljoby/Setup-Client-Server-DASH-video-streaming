@@ -45,4 +45,4 @@ Another way to Setup DASH server is here
 https://www.instructables.com/id/Making-Your-Own-Simple-DASH-MPEG-Server-Windows-10/
 
 
-**Then, you are ready to start video streaming between the client and the server**
+**Then, you are ready to start video streaming from DASH server to the container of DASH client.**
