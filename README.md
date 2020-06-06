@@ -2,7 +2,7 @@
 
 Steps to setup a DASH client in a Docker Container for downloading video segments from DASH server. 
 
-First: Setup DASH client in a Docker Container
+**First: Setup DASH client in a Docker Container**
 
 1- Install docker engine into your machine
 
@@ -37,7 +37,7 @@ This dashClient image needs an input of DASH server URL, client's virtual dispal
 Thus, in the host directory /home/walid/test/containers/container-data1 the input "example.py" should be available to read from, and output empty output directory "chrome_user_dir_real" should be available to write to.
 
 
-Second: Setup DASH server
+**Second: Setup DASH server**
 
 The setup of DASH server is similar to any Apache web server. Make sure Apache web server is running by command: service apache2 status, if it is running, then replace default /var/www/html directory by "html" in this repository. This diretory is prepared with dash.js client player, associated streaming techniques, metrics and logs. Also, video segments to be streamed are by default stored in /var/www/html/t1 directory.
 
@@ -45,4 +45,4 @@ Another way to Setup DASH server is here
 https://www.instructables.com/id/Making-Your-Own-Simple-DASH-MPEG-Server-Windows-10/
 
 
-Then, you are ready to start video streaming between the client and the server
+**Then, you are ready to start video streaming between the client and the server**
