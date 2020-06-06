@@ -42,7 +42,7 @@ sudo docker run --privileged -p 4000:4000 -v /home/waleed/test/containers/contai
 
 Second: Setup DASH server
 
-
+https://www.instructables.com/id/Making-Your-Own-Simple-DASH-MPEG-Server-Windows-10/
 
 
 Finally: Start video streaming between the client and the server
