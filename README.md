@@ -18,6 +18,7 @@ sudo apt-get update
 sudo apt-get install -y docker-ce
 sudo apt-cache policy docker-ce
 
+more details are available here https://docs.docker.com/engine/install/ubuntu/
 
 2- download dashClientImage docker image from the docker hub
 
