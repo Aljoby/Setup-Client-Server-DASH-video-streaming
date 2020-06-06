@@ -39,6 +39,9 @@ sudo docker run --privileged -p 4000:4000 -v /home/waleed/test/containers/contai
 
 Second: Setup DASH server
 
+The setup of DASH server is like to any Apache web server. Make sure Apache web server by command: service apache2 status, if it is running, then replace default /var/www/html directory by "html" in this repository. This diretory is prepared of dash.js client player, associated streaming techniques, metrics and logs. Also, video segments to be streamed are by default stored in /var/www/html/t1 directory.
+
+Another way to Setup DASH server is here 
 https://www.instructables.com/id/Making-Your-Own-Simple-DASH-MPEG-Server-Windows-10/
 
 
