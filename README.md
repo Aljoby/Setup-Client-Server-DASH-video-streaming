@@ -45,4 +45,4 @@ Another way to Setup DASH server is here
 https://www.instructables.com/id/Making-Your-Own-Simple-DASH-MPEG-Server-Windows-10/
 
 
-**Then, you are ready to start video streaming from DASH server to the container of DASH client.**
+**Then, you are ready to start video streaming from DASH server to the container of DASH client.** Remember to replace IP address 10.10.10.22 with your own DASH server's IP address. The change should be made in the example.py and 'html/dash/samples/dash-if-reference-player/t1.html'.
