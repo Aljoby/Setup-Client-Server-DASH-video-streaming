@@ -34,8 +34,6 @@ aljoby/selenium_docker_new.   dashClientImage.  9f16ef5e64e6.  2 months ago.  1.
 
 sudo docker run --privileged -p 4000:4000 -v /home/waleed/test/containers/container-data1:/usr/src/app -t aljoby/selenium_docker_new
 
-one     two.   treee
-
 
 
 Second: Setup DASH server
