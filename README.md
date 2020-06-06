@@ -26,7 +26,7 @@ More details are available here https://docs.docker.com/engine/install/ubuntu/
 
 3- After pulling the image, you can check it out in your machine with this command: docker images, then you should see
 
-aljoby/selenium_docker_new.   dashClientImage.  9f16ef5e64e6.  2 months ago.  1.25GB
+aljoby/selenium_docker_new &nbsp; &nbsp; dashClientImage.  9f16ef5e64e6.  2 months ago.  1.25GB
 
 4- Run an instance of docker image (aka, container)
 
