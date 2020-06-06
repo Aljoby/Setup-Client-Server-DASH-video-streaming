@@ -20,7 +20,7 @@ sudo apt-cache policy docker-ce`
 
 More details are available here https://docs.docker.com/engine/install/ubuntu/
 
-2- download dashClientImage docker image from the docker hub
+2- Download dashClientImage docker image from the docker hub
 
 *`docker pull aljoby/selenium_docker_new:dashClientImage`*
 
